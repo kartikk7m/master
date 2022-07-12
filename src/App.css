@@ -1,0 +1,16 @@
+.chartContainer {
+  border: 1px solid grey;
+  width: 100px;
+  background: aliceblue;
+  margin: 25px;
+}
+.btn {
+  margin-left: 10px;
+  cursor: pointer;
+}
+.font {
+  font-weight: bold;
+}
+.labelStyle {
+  cursor: pointer;
+}
